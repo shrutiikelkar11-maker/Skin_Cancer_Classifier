@@ -52,6 +52,7 @@ evaluation metrics and **Grad-CAM visual explanations**.
 - The dataset is **highly imbalanced**, which causes the model to bias toward majority classes.
 - Some classes show low precision/recall.
 - Grad-CAM visualizations highlight regions used by the model for prediction.
+- Due to severe class imbalance in HAM10000, the model shows bias toward majority classes, highlighting the need for advanced imbalance-handling techniques.
 
 ---
 

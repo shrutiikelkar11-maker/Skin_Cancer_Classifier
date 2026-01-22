@@ -1,0 +1,13 @@
+# Dataset
+HAM10000_images/
+data/
+*.zip
+
+# Models
+*.h5
+
+# Notebook
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
